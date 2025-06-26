@@ -1,5 +1,4 @@
 # 2100-Sicaklik-Tahmini
-Bu Projenin Amacı
 Bu proje, ülkelerin demografik ve çevresel özelliklerini kullanarak 2100 yılı için ortalama küresel sıcaklık artışını tahmin etmeyi hedeflemektedir. Ridge regresyon modeli ve IPCC (Hükümetlerarası İklim Değişikliği Paneli) iklim riski eşiklerine dayanarak ülkeler risk seviyelerine göre sınıflandırılmakta ve iklim değişikliğine karşı kırılganlıkları değerlendirilmektedir.
 
 Amaç
